@@ -1,9 +1,10 @@
 # KotlinForMecatronics
 
 Tutorial de Kotlin con sus principales diferencias frente a otros lenguajes como python y c++
+El archivo principal a revisar se ubicaría en la siguiente direccion
+app/src/main/java/com/example/learnkotlin
 
-La info encontrada en este rep. está basada en el siguiente tutorial
-
+La info encontrada en este rep. está basada en el siguiente tutorial  
 https://youtu.be/ebQphhLpJG0
 
 ### Enlaces de otros videos consultados
